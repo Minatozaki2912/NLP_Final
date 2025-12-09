@@ -1,0 +1,10 @@
+Encoder Data: https://huggingface.co/datasets/uitnlp/vietnamese_students_feedback
+
+Decoder Data:
+https://huggingface.co/datasets/taidng/UIT-ViQuAD2.0 
+
+Encoder-Decoder Data:
+https://huggingface.co/datasets/clapAI/VLSP2016_SA
+
+Link GitHub:
+https://github.com/Minatozaki2912/NLP_Final.git
